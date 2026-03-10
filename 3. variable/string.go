@@ -29,4 +29,6 @@ func main() {
 	//mengganti bagian string
 	newText := strings.ReplaceAll(text, "dunia", "Golang")
 	fmt.Println("Replace, ",newText)
+
+	//Semangat dah
 }
